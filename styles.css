@@ -3,14 +3,22 @@
 	background-color: #f8f8f8;
 }
 .book{
-	background-color: rgb(46, 204, 113);
+  background-color: #ffffff;;
 }
 .book-library{
 		background-color: #ffffff;
 
-.Price-block{
-	color:#2ecc71;
-	}
-.Author{
-	color: #777777;
-	}
+}
+.book h2 {
+          
+            color: #333333;
+        }
+.book p.author {
+            color: #777777;
+            
+        }
+.book p.price {
+            color: #2ecc71;
+       
+        }
+
